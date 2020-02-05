@@ -19,3 +19,6 @@ We use a defined commit style, so it is easy to follow what is done on each comm
 
 Example
 `feat: add frontend login form`
+
+#### Testing
+* Testing is important, but not enforced. Team based
