@@ -15,6 +15,7 @@ We use a defined commit style, so it is easy to follow what is done on each comm
 * refactor: A code change that neither fixes a bug nor adds a feature
 * style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 * test: Adding missing tests or correcting existing tests
+* build: Changes in dependencies
 
 Example
 `feat: add frontend login form`
