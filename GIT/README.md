@@ -1,7 +1,7 @@
 #### Branching og merging
 
 * Protected master branch
-* Use task-specific names when branching
+* Use jira branching
 * Regularly merge master branch into your branch
 * When the task is implemented, we do a code review and back-of-the-envelop testing before merging.
 
