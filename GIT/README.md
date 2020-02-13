@@ -16,6 +16,7 @@ We use a defined commit style, so it is easy to follow what is done on each comm
 * style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 * test: Adding missing tests or correcting existing tests
 * build: Changes in dependencies
+* chose(what chore): Something that is not covered in the above tags
 
 Example
 `feat: add frontend login form`
